@@ -1,0 +1,71 @@
+[
+  {
+    "region" : "Yangon Region",
+    "description" : [
+      "ILF Yangon : 09-970680153",
+      "LCM Yangon (Headquarter): 09-266684448, 09-266684449",
+      "LCM Hlaing Tharyar: 09-449919126 "
+    ]
+  },
+  {
+    "region" : "Bago Region:",
+    "description" : [
+      "LCM Bago: 09-894120925 "
+    ]
+  },
+  {
+    "region" : "Mandalay Region:",
+    "description" : [
+      "ILF Mandalay: 09-441269760",
+      "LCM Mandalay: 09-798673014"
+    ]
+  },
+  {
+    "region" : "Ayeyarwady Region:",
+    "description" : [
+      "ILF Pathein: 09-979873776",
+      "LCM Pathein: 09-260338726"
+    ]
+  },
+  {
+    "region" : "Kachin State:",
+    "description" : [
+      "LCM Myitkyina: 09-979197420"
+    ]
+  },
+  {
+    "region" : "Rakhine State:",
+    "description" : [
+      "ILF Sittwe: 09-268006585",
+      "LCM Sittwe: 09-250883064",
+      "Thazin Sittwe: 09-456256262",
+      "LCM Kyauk Phyu: 09-891629717",
+      "Thazin Anne: 09-766030042"
+    ]
+  },
+  {
+    "region" : "Shan State (North):",
+    "description" : [
+      "ILF Lashio: 09-447714495",
+      "LCM Lashio: 09-251441336"
+    ]
+  },
+  {
+    "region" : "Kayah State:",
+    "description" : [
+      "LCM Loikaw: 09-407376736"
+    ]
+  },
+  {
+    "region" : "Mon State:",
+    "description" : [
+      "LCM Mawlamyine: 09-773196618"
+    ]
+  },
+  {
+    "region" : "Kayin State:",
+    "description" : [
+      "LCM Hpa-an: 09-404626050"
+    ]
+  }
+]
